@@ -10,4 +10,4 @@ var req = {
 
 server.start(router.router, req);
 
-// 20160306 使用 url 模組，把 query 參數拿出來當作 訊息物件
+// 20160306 使用 url 模組，把 query 參數拿出來當作 訊息物件!
